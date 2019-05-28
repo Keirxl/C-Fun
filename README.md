@@ -1,0 +1,3 @@
+# C-Fun
+Just things I found fun in C++
+YearbookQuest is my text based rpg game I made. It has a few whacky things....
